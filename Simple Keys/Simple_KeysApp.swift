@@ -15,3 +15,7 @@ struct Simple_KeysApp: App {
         }
     }
 }
+
+#Preview {
+    ContentView()
+}
